@@ -1,0 +1,7 @@
+*.js
+*.js.gz
+assets/
+img/
+.DS_Store
+manifest.webmanifest
+favicon.ico
